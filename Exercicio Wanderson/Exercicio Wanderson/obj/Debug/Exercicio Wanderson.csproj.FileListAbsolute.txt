@@ -1,0 +1,10 @@
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\bin\Debug\Exercicio Wanderson.exe.config
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\bin\Debug\Exercicio Wanderson.exe
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\bin\Debug\Exercicio Wanderson.pdb
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\obj\Debug\Exercicio_Wanderson.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\obj\Debug\Exercicio Wanderson.csproj.GenerateResource.Cache
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\obj\Debug\Exercicio Wanderson.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\obj\Debug\Exercicio Wanderson.exe
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\obj\Debug\Exercicio Wanderson.pdb
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\obj\Debug\Exercicio_Wanderson.exercicioForm.resources
+C:\Users\Ricardo\source\repos\Aprendendo\Aprendendo\Exercicio Wanderson\Exercicio Wanderson\obj\Debug\Exercicio Wanderson.csprojResolveAssemblyReference.cache
