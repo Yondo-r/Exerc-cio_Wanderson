@@ -1,2 +1,2 @@
-# Exerccio_Wanderson
+# Exercício_Wanderson
 Exercicios treinos em C#
